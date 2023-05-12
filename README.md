@@ -38,44 +38,44 @@ To determine the presence of bias or lack thereof, SQL queries were run on the `
 
 Using these tables, three questions regarding paid-review bias were answered:
 - How many Vine reviews and non-Vine reviews were there?
-    <details>
-      <summary>Vine reviews: 33</summary>
+  <details>
+    <summary>Vine reviews: 33</summary>
   
-      ![q1.1](images/q1.1.png)
+    ![q1.1](images/q1-1.png)
   
-    </details>
-    <details>
-      <summary>Non-Vine reviews: 45,388</summary>
+  </details>
+  <details>
+    <summary>Non-Vine reviews: 45,388</summary>
   
-      ![q1.2](images/q1.2.png)
+    ![q1.2](images/q1-2.png)
   
-    </details>
+  </details>
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-    <details>
-      <summary>5-star Vine reviews: 15</summary>
+  <details>
+    <summary>5-star Vine reviews: 15</summary>
   
-      ![q2.1](images/q2.1.png)
+    ![q2.1](images/q2-1.png)
   
-    </details>
-    <details>
-      <summary>5-star non-Vine reviews: 23,733</summary>
+  </details>
+  <details>
+    <summary>5-star non-Vine reviews: 23,733</summary>
   
-      ![q2.2](images/q2.2.png)
+    ![q2.2](images/q2-2.png)
   
-    </details>
+  </details>
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-    <details>
-      <summary>Percent 5-star Vine reviews: 45.45%</summary>
+  <details>
+    <summary>Percent 5-star Vine reviews: 45.45%</summary>
   
-      ![q3.1](images/q3.1.png)
+    ![q3.1](images/q3-1.png)
   
-    </details>
-    <details>
-      <summary>Percent 5-star non-Vine reviews: 52.29%</summary>
+  </details>
+  <details>
+    <summary>Percent 5-star non-Vine reviews: 52.29%</summary>
   
-      ![q3.2](images/q3.2.png)
+    ![q3.2](images/q3-2.png)
   
-    </details>
+  </details>
 
 
 ## Summary
